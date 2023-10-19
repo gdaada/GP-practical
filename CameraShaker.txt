@@ -1,4 +1,5 @@
-//prac6 script file
+prac6 script file
+
 public Transform cameraTransform = default;
 private Vector3 _orignalPosOfCam = default;
 public float shakeFrequency = default;
