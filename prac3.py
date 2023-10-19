@@ -1,3 +1,4 @@
+#snake game
 import pygame as pg
 from random import randrange
 window = 600
